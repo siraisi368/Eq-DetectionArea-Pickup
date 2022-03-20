@@ -126,11 +126,11 @@
             this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(871, 41);
             this.ContextMenuStrip = this.contextMenuStrip1;
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.trackBar1);
             this.Controls.Add(this.label1);
+            this.Controls.Add(this.label3);
             this.Name = "Form1";
             this.Text = "Eq-DetectionArea-Pickup V2";
             this.contextMenuStrip1.ResumeLayout(false);
